@@ -1,0 +1,9 @@
+time 2003ms
+rtt min/avg/max/mdev = 1.165/1.573/2.221/0.463 ms
+
+time 2003ms
+rtt min/avg/max/mdev = 1.851/2.100/2.409/0.231 ms
+
+time 2003ms
+rtt min/avg/max/mdev = 0.817/1.685/2.189/0.616 ms
+
